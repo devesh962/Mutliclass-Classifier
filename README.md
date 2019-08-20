@@ -6,4 +6,4 @@ This Code is Used to identify the Hand gestures for Rock , Paper & Scissors game
 
 Real life implementation can be done if we have a large dataset.
 
-Run .py file on Google Colab.
+Run .py file on Google Colab or Jupyter Notebook.
